@@ -135,7 +135,7 @@ body {
 /* Landing page */
 
 header {
-  background-image: linear-gradient(rgba( 52, 153, 219, 0.8), rgba( 52, 153, 219, 0.8)), url('https://s3.amazonaws.com/user-media.venngage.com/a70319c58bfab6af917a59b9550d734a.jpg');
+  background-image: linear-gradient(rgba( 52, 153, 219, 0.8), rgba( 52, 153, 219, 0.8)), url('pac.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
