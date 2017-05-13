@@ -419,7 +419,6 @@ h3 {
 
 /*
  * Hide only visually, but have it available for screen readers:
- * http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
  */
 
 .visuallyhidden {
@@ -437,7 +436,6 @@ h3 {
 /*
  * Extends the .visuallyhidden class to allow the element
  * to be focusable when navigated to via the keyboard:
- * https://www.drupal.org/node/897638
  */
 
 .visuallyhidden.focusable:active,
@@ -488,7 +486,6 @@ h3 {
 /* ==========================================================================
    Print styles.
    Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
    ========================================================================== */
 
 @media print {
@@ -499,8 +496,7 @@ h3 {
   *:first-line {
     background: transparent !important;
     color: #000 !important;
-    /* Black prints faster:
-                                   http://www.sanbeiji.com/archives/953 */
+    /* Black prints faster*/
     box-shadow: none !important;
     text-shadow: none !important;
   }
@@ -529,7 +525,6 @@ h3 {
   }
   /*
      * Printing Tables:
-     * http://css-discuss.incutio.com/wiki/Printing_Tables
      */
   thead {
     display: table-header-group;
