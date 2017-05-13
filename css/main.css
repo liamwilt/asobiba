@@ -7,8 +7,6 @@ html {
 
 /*
  * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
  * These selection rule sets have to be separate.
  * Customize the background color to match your design.
  */
@@ -41,7 +39,6 @@ hr {
 /*
  * Remove the gap between audio, canvas, iframes,
  * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
  */
 
 audio,
@@ -91,7 +88,7 @@ textarea {
    ========================================================================== */
 
 
-/* portfolio color palette (Belize Hole)*/
+/* Primary color palette (Belize Hole)*/
 
 .color-primary-0 {
   color: #3499DB
@@ -103,9 +100,6 @@ textarea {
 .rgba-primary-0 {
   color: rgba( 52, 153, 219, 1)
 }
-
-
-/* Main Primary color */
 
 
 /* General setup and overrides */
